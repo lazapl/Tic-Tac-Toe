@@ -1,0 +1,24 @@
+
+.squize{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.current{
+    margin: 20px;
+    
+    text-align: center;
+}
+.content{
+    width: 320px;
+}
+.square{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 0.3px;
+}
